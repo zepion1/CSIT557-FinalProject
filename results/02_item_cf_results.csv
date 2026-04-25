@@ -1,0 +1,2 @@
+Algorithm,RMSE,MAE,k,min_k,similarity,CV_folds,train_ratio
+Item-Based CF (KNNWithMeans),0.9418,0.709,40,3,cosine,5,0.8
