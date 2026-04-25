@@ -1,0 +1,2 @@
+Algorithm,RMSE,MAE,n_factors,n_epochs,lr_all,reg_all,CV_folds,train_ratio
+SVD (Matrix Factorization),0.9109,0.7076,50,30,0.005,0.1,5,0.8
